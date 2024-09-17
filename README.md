@@ -40,12 +40,12 @@ O Projeto tem como objetivo criar interfaces que permitam a visualização de ca
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------| 
-|Kick Off| 11/03/2024 | Concluído | | 
-|01| 15/04/2024 | Concluído |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relatorio1.pdf) | 
-|02|  06/05/2024| Concluído |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relat%C3%B3rio%20sprint%202.pdf) | 
-|03| 27/05/2024 | Concluído |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/relatorio%20sprint%203.pdf) | 
-|04| 17/06/2024 | Concluído |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relat%C3%B3rio%204.pdf)  | 
-|Feira de Soluções|27/06/2024 | A Fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off| 17/09/2024 | Concluído | | 
+|00| 26/09/2024 | A Fazer |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relatorio1.pdf) | 
+|01|  17/10/2024| A Fazer |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relat%C3%B3rio%20sprint%202.pdf) | 
+|02| 07/11/2024 | A Fazer |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/relatorio%20sprint%203.pdf) | 
+|03| 28/11/2024 | A Fazer |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relat%C3%B3rio%204.pdf)  | 
+|Feira de Soluções|12/12/2024 | A Fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontra as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual Sprint cada atividade pertence.
