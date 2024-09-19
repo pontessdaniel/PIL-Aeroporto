@@ -13,18 +13,21 @@
 
 
 # Projeto (API) 
- O projeto integrador (API) é um projeto pedagógico, onde o ensino é focado no desenvolvimento de competências e fundamentos, com base nesses pilares o projeto tem como intuito mapear potenciais cargas para movimentação no
-Aeroporto de São José dos Campos com base de dados de importações e exportações de municípios da RMVALE e Litoral Norte. 
+ O projeto integrador (API) é um projeto pedagógico, onde o ensino é focado no desenvolvimento de um produto que auxilia visualizar e mapear potenciais cargas para movimentação no aeroporto SJK com base em dados de importações de municípios da região do Vale do Paraíba e Litoral Norte no ano de 20242. 
 
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Tales Ferreira        |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/talesferreiranogueira/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Talesfn1)              |
-| Scrum Master  | Ludmila de Mello |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ludmila-de-mello-2132b22ba/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ludmilacarmo)     |
-| Team Member   | Mayara Pereira         |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayara-pereira-0822b42ba/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mayara73)        |
-|  Team Member  | Arthur Araujo     |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-anacleto54/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ArthurAJ54)        |
-|  Team Member  | Vinicius Messias            |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-silva-5b2763302/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ViniciusMeSilva)   |
+| Product Owner |   Daniel Rodrgigues Pontes        |     [![Linkedin Badge]()]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Talesfn1)              |
+| Scrum Master  | Caroline Beatriz Souza Thomaz |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ludmila-de-mello-2132b22ba/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ludmilacarmo)     |
+| Team Member   | Milena Profeta Ribeiro de Oliveira         |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayara-pereira-0822b42ba/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mayara73)        |
+|  Team Member  | Lara Vitória de Almeida Fernandes     |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-anacleto54/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ArthurAJ54)        |
+|  Team Member  | André Luiz Raymundo Alves            |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-silva-5b2763302/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ViniciusMeSilva)   |
+|  Team Member  | Ramon Amorim da Silva            |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-silva-5b2763302/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ViniciusMeSilva)   |
+|  Team Member  | Manoele Moraes Rosas            |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-silva-5b2763302/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ViniciusMeSilva)   |
+|  Team Member  | Fabrina Camargo dos Santos            |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-silva-5b2763302/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ViniciusMeSilva)   |
+
 
 
 # Objetivo do Projeto
@@ -41,16 +44,16 @@ O Projeto tem como objetivo criar interfaces que permitam a visualização de ca
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------| 
 |Kick Off| 17/09/2024 | Concluído | | 
-|00| 26/09/2024 | A Fazer |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relatorio1.pdf) | 
-|01|  17/10/2024| A Fazer |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relat%C3%B3rio%20sprint%202.pdf) | 
-|02| 07/11/2024 | A Fazer |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/relatorio%20sprint%203.pdf) | 
+|00| 26/09/2024 | A Fazer |[Ver Relatório]() | 
+|01|  17/10/2024| A Fazer |[Ver Relatório]() | 
+|02| 07/11/2024 | A Fazer |[Ver Relatório]() | 
 |03| 28/11/2024 | A Fazer |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relat%C3%B3rio%204.pdf)  | 
 |Feira de Soluções|12/12/2024 | A Fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontra as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual Sprint cada atividade pertence.
 
-#### Cronograma das Sprint [(clique aqui)](https://github.com/users/Talesfn1/projects/2)
+#### Cronograma das Sprint [(clique aqui)](https://github.com/users/Talesfn1/projects/2) !!!!!!!
 
 # Backlog das Sprints
   
@@ -80,30 +83,30 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 ## Sprint 1. 
 - [x] Criação do GitHub de cada membro;
-- [x] Estruturação do Repositório do projeto;
-- [x] Estruturação do JiraSoftware;
-- [x] Pesquisas para estruturação do projeto;
-- [x] Preenchimento do Jira e GitHub;
-- [x] Documentação em relatorio da Sprint 1;
-- [x] Revisão e finalização.
+- [] Estruturação do Repositório do projeto;
+- [] Estruturação do JiraSoftware;
+- [] Pesquisas para estruturação do projeto;
+- [] Preenchimento do Jira e GitHub;
+- [] Documentação em relatorio da Sprint 1;
+- [] Revisão e finalização.
 ## Sprint 2. 
-- [x] Conversão dos dados no Power BI ;
-- [x] Identificar principais produtos exportados na RM Vale;
-- [x] Criação do Dashboard com evolução mensal por valor/peso das exportações;
-- [x] Documentação em relatório sobre todo o progresso na 2ª Sprint;
+- [] Conversão dos dados no Power BI ;
+- [] Identificar principais produtos exportados na RM Vale;
+- [] Criação do Dashboard com evolução mensal por valor/peso das exportações;
+- [] Documentação em relatório sobre todo o progresso na 2ª Sprint;
 ## Sprint 3. 
-- [x] Implementação no Dashboard de filtros por município da RM vale, por carga, por volume e por valor FOB;
-- [x] Pesquisar quais cargas poderiam ser transportadas por aeroporto.;
-- [x] Documentação em relatório sobre todo o progresso na 3ª Sprint e Atualização do GitHub;
+- [] Implementação no Dashboard de filtros por município da RM vale, por carga, por volume e por valor FOB;
+- [] Pesquisar quais cargas poderiam ser transportadas por aeroporto.;
+- [] Documentação em relatório sobre todo o progresso na 3ª Sprint e Atualização do GitHub;
 ## Sprint 4. 
-- [x] Atualizar, revisar, corrigir, e implementar novas funções e análises de acordo com a necessidade;
-- [x] Atualizar pesquisas, GitHub e jira;
-- [x] Documentação em relatório sobre todo o progresso na 4ª Sprint e Atualização do GitHub;
+- [] Atualizar, revisar, corrigir, e implementar novas funções e análises de acordo com a necessidade;
+- [] Atualizar pesquisas, GitHub e jira;
+- [] Documentação em relatório sobre todo o progresso na 4ª Sprint e Atualização do GitHub;
 
-# Apresentação das Sprints
-#### Apresentação da Sprint 1 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20Slide%201.pdf)
-#### Apresentação da Sprint 2 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20(1).pdf)
-#### Apresentação da Sprint 3 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%203.pdf)
+# Apresentação das Sprints !!!
+#### Apresentação da Sprint 1 [(clique aqui)]()
+#### Apresentação da Sprint 2 [(clique aqui)]()
+#### Apresentação da Sprint 3 [(clique aqui)]()
 #### Apresentação da Sprint 4 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%203.pdf)
 
 # Competências desenvolvidas
