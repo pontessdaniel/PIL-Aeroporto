@@ -20,7 +20,7 @@
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Daniel Rodrgigues Pontes        |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pontes-919444245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()              |
-| Scrum Master  | Caroline Beatriz Souza Thomaz |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()     |
+| Scrum Master  | Caroline Beatriz Souza Thomaz |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-thomaz-33905718a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()     |
 | Team Member   | Milena Profeta Ribeiro de Oliveira         |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()        |
 |  Team Member  | Lara Vitória de Almeida Fernandes     |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()        |
 |  Team Member  | André Luiz Raymundo Alves            |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()   |
@@ -83,11 +83,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 ## Sprint 1. 
 - [x] Criação do GitHub de cada membro;
-- [] Estruturação do Repositório do projeto;
-- [] Estruturação do JiraSoftware;
-- [] Pesquisas para estruturação do projeto;
-- [] Preenchimento do Jira e GitHub;
-- [] Documentação em relatorio da Sprint 1;
+- [x] Estruturação do Repositório do projeto;
+- [x] Estruturação do JiraSoftware;
+- [x] Pesquisas para estruturação do projeto;
+- [x] Preenchimento do Jira e GitHub;
+- [x] Documentação em relatorio da Sprint 1;
 - [] Revisão e finalização.
 ## Sprint 2. 
 - [] Conversão dos dados no Power BI ;
