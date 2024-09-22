@@ -36,9 +36,9 @@ O Projeto tem como objetivo criar interfaces que permitam a visualização de ca
 
  ### Tecnologias Específicas/Apoio
  > GitHub
-  > Jira Software
-> Power BI
-> Slack
+ > Jira Software
+ > Power BI
+ > Slack
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
