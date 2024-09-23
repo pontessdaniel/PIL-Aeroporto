@@ -90,24 +90,18 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Documentação em relatorio da Sprint 1;
 - [] Revisão e finalização.
 ## Sprint 2. 
-```plaintext
 - [] Conversão dos dados no Power BI ;
 - [] Identificar principais produtos exportados na RM Vale;
 - [] Criação do Dashboard com evolução mensal por valor/peso das exportações;
 - [] Documentação em relatório sobre todo o progresso na 2ª Sprint;
-```
 ## Sprint 3. 
-```plaintext
 - [] Implementação no Dashboard de filtros por município da RM vale, por carga, por volume e por valor FOB;
 - [] Pesquisar quais cargas poderiam ser transportadas por aeroporto.;
 - [] Documentação em relatório sobre todo o progresso na 3ª Sprint e Atualização do GitHub;
-```
 ## Sprint 4. 
-```plaintext
 - [] Atualizar, revisar, corrigir, e implementar novas funções e análises de acordo com a necessidade;
 - [] Atualizar pesquisas, GitHub e jira;
 - [] Documentação em relatório sobre todo o progresso na 4ª Sprint e Atualização do GitHub;
-```
 # Apresentação das Sprints !!!
 #### Apresentação da Sprint 1 [(clique aqui)]()
 #### Apresentação da Sprint 2 [(clique aqui)]()
