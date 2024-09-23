@@ -31,7 +31,7 @@
 
 
 # Objetivo do Projeto
-O Projeto tem como objetivo criar interfaces que permitam a visualização de cargas que tenham potencial para exportação pelo aeroporto de SJK.
+O Projeto tem como objetivo criar interfaces que permitam a visualização de cargas que tenham potencial para exportação e importação pelo aeroporto de SJK.
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
