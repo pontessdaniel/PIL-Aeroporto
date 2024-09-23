@@ -82,7 +82,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown4.png)
   
 ## Sprint 1. 
-```
 - [x] Criação do GitHub de cada membro;
 - [x] Estruturação do Repositório do projeto;
 - [x] Estruturação do JiraSoftware;
@@ -90,7 +89,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Preenchimento do Jira e GitHub;
 - [x] Documentação em relatorio da Sprint 1;
 - [] Revisão e finalização.
-```
 ## Sprint 2. 
 ```plaintext
 - [] Conversão dos dados no Power BI ;
