@@ -31,7 +31,7 @@
 
 
 # Objetivo do Projeto
-(https://github.com/pontessdaniel/PIL-Aeroporto/tree/main/BackLog/Relatório de atividades_page-0001.jpg)
+![sprint backlog](https://github.com/pontessdaniel/PIL-Aeroporto/tree/main/BackLog/Relatório de atividades_page-0001.jpg)
 ````O objetivo deste projeto é estimular empresas dos municípios do RMVALE e Litoral Norte, que realizam importações e exportações de mercadorias pelos aeroportos de Guarulhos e Viracopos, a utilizarem o aeroporto de São José dos Campos como um ponto estratégico de distribuição e recebimento de suas mercadorias, para viabilizar essa iniciativa, vamos apresentar um mapeamento abrangente de todas as cargas que podem ser transportadas diretamente do aeroporto de São José dos Campos, para isso, coletaremos dados por meio da plataforma Comex Stat e realizaremos uma filtragem das mercadorias que podem ser redirecionadas para este aeroporto. Assim, conseguiremos identificar quais mercadorias são importadas e exportadas especificamente na região do Vale do Paraíba e Litoral Norte pelo modal aeroviário, evidenciando a possibilidade de margens de lucro e benefícios econômicos superiores, conforme os dados apresentados.````
 ## Tecnologias Utilizadas
 
