@@ -31,10 +31,7 @@
 
 
 # Objetivo do Projeto
-![Objetivo do projeto](https://github.com/pontessdaniel/PIL-Aeroporto/tree/main/BackLog/Relatório-de-atividades_page-0001.png)
-
-
-````O objetivo deste projeto é estimular empresas dos municípios do RMVALE e Litoral Norte, que realizam importações e exportações de mercadorias pelos aeroportos de Guarulhos e Viracopos, a utilizarem o aeroporto de São José dos Campos como um ponto estratégico de distribuição e recebimento de suas mercadorias, para viabilizar essa iniciativa, vamos apresentar um mapeamento abrangente de todas as cargas que podem ser transportadas diretamente do aeroporto de São José dos Campos, para isso, coletaremos dados por meio da plataforma Comex Stat e realizaremos uma filtragem das mercadorias que podem ser redirecionadas para este aeroporto. Assim, conseguiremos identificar quais mercadorias são importadas e exportadas especificamente na região do Vale do Paraíba e Litoral Norte pelo modal aeroviário, evidenciando a possibilidade de margens de lucro e benefícios econômicos superiores, conforme os dados apresentados.````
+O objetivo deste projeto é estimular empresas dos municípios do RMVALE e Litoral Norte, que realizam importações e exportações de mercadorias pelos aeroportos de Guarulhos e Viracopos, a utilizarem o aeroporto de São José dos Campos como um ponto estratégico de distribuição e recebimento de suas mercadorias, para viabilizar essa iniciativa, vamos apresentar um mapeamento abrangente de todas as cargas que podem ser transportadas diretamente do aeroporto de São José dos Campos, para isso, coletaremos dados por meio da plataforma Comex Stat e realizaremos uma filtragem das mercadorias que podem ser redirecionadas para este aeroporto. Assim, conseguiremos identificar quais mercadorias são importadas e exportadas especificamente na região do Vale do Paraíba e Litoral Norte pelo modal aeroviário, evidenciando a possibilidade de margens de lucro e benefícios econômicos superiores, conforme os dados apresentados.
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
@@ -85,6 +82,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown4.png)
   
 ## Sprint 1. 
+```plaintext
 - [x] Criação do GitHub de cada membro;
 - [x] Estruturação do Repositório do projeto;
 - [x] Estruturação do JiraSoftware;
@@ -92,20 +90,26 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Preenchimento do Jira e GitHub;
 - [x] Documentação em relatorio da Sprint 1;
 - [] Revisão e finalização.
+```
 ## Sprint 2. 
+```plaintext
 - [] Conversão dos dados no Power BI ;
 - [] Identificar principais produtos exportados na RM Vale;
 - [] Criação do Dashboard com evolução mensal por valor/peso das exportações;
 - [] Documentação em relatório sobre todo o progresso na 2ª Sprint;
+```
 ## Sprint 3. 
+```plaintext
 - [] Implementação no Dashboard de filtros por município da RM vale, por carga, por volume e por valor FOB;
 - [] Pesquisar quais cargas poderiam ser transportadas por aeroporto.;
 - [] Documentação em relatório sobre todo o progresso na 3ª Sprint e Atualização do GitHub;
+```
 ## Sprint 4. 
+```plaintext
 - [] Atualizar, revisar, corrigir, e implementar novas funções e análises de acordo com a necessidade;
 - [] Atualizar pesquisas, GitHub e jira;
 - [] Documentação em relatório sobre todo o progresso na 4ª Sprint e Atualização do GitHub;
-
+```
 # Apresentação das Sprints !!!
 #### Apresentação da Sprint 1 [(clique aqui)]()
 #### Apresentação da Sprint 2 [(clique aqui)]()
