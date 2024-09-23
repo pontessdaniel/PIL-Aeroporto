@@ -82,18 +82,18 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown4.png)
   
 ## Sprint 1. 
-[x] Criação do GitHub de cada membro;
-[x] Estruturação do Repositório do projeto;
-[x] Estruturação do JiraSoftware;
-[x] Pesquisas para estruturação do projeto;
-[x] Preenchimento do Jira e GitHub;
-[x] Documentação em relatorio da Sprint 1;
-- [] Revisão e finalização.
+- [x] Criação do GitHub de cada membro;
+- [x] Estruturação do Repositório do projeto;
+- [x] Estruturação do JiraSoftware;
+- [x] Pesquisas para estruturação do projeto;
+- [x] Preenchimento do Jira e GitHub;
+- [x] Documentação em relatorio da Sprint 1;
+- [-] Revisão e finalização.
 ## Sprint 2. 
-[] Conversão dos dados no Power BI ;
-[] Identificar principais produtos exportados na RM Vale;
-[] Criação do Dashboard com evolução mensal por valor/peso das exportações;
-[] Documentação em relatório sobre todo o progresso na 2ª Sprint;
+- [v] Conversão dos dados no Power BI ;
+- [o] Identificar principais produtos exportados na RM Vale;
+- [] Criação do Dashboard com evolução mensal por valor/peso das exportações;
+- [] Documentação em relatório sobre todo o progresso na 2ª Sprint;
 ## Sprint 3. 
 - [] Implementação no Dashboard de filtros por município da RM vale, por carga, por volume e por valor FOB;
 - [] Pesquisar quais cargas poderiam ser transportadas por aeroporto.;
