@@ -53,7 +53,7 @@ Sprint | Previsão | Status| Histórico|
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontra as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual Sprint cada atividade pertence.
 
-#### Cronograma das Sprint [(clique aqui)](https://carolinethomaz97-1725823853769.atlassian.net/jira/software/projects/KAN/boards/1/backlog)
+#### Cronograma das Sprint [(clique aqui)](https://github.com/users/ramonads42/projects/2/views/1)
 
 # Backlog das Sprints
   
