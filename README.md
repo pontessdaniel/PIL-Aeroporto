@@ -103,11 +103,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Atualizar pesquisas, GitHub e jira;
 - [ ] Documentação em relatório sobre todo o progresso na 4ª Sprint e Atualização do GitHub;
 # Apresentação das Sprints !!!
-#### Apresentação da Sprint 1 [(clique aqui)]()
+<!-- Seção para revisão#### Apresentação da Sprint 1 [(clique aqui)]()
 #### Apresentação da Sprint 2 [(clique aqui)]()
 #### Apresentação da Sprint 3 [(clique aqui)]()
-#### Apresentação da Sprint 4 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%203.pdf)
-
+#### Apresentação da Sprint 4 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%203.pdf)-->
+<!-- Seção para revisão
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
@@ -137,3 +137,4 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
+-->
