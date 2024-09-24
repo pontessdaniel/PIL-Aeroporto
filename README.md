@@ -53,7 +53,7 @@ Sprint | Previsão | Status| Histórico|
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontra as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual Sprint cada atividade pertence.
 
-#### Cronograma das Sprint [(clique aqui)](https://github.com/pontessdaniel/PIL-Aeroporto/tree/main/Relat%C3%B3rios/PDFs/Relatório-de-atividades.pdf) !!!!!!!
+#### Cronograma das Sprint [(clique aqui)](https://carolinethomaz97-1725823853769.atlassian.net/jira/software/projects/KAN/boards/1/backlog) !!!!!!!
 
 # Backlog das Sprints
   
