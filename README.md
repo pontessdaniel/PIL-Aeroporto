@@ -35,17 +35,10 @@ O objetivo deste projeto é estimular empresas dos municípios do RMVALE e Litor
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
-<details>
-<summary>Tecnologias Específicas/Apoio</summary>
-  
-| Tecnologia/Metodologia |
-| ---------------------- |
-| GitHub                 |
-| Jira Software          |
-| Power BI               |
-| Slack                  |
- 
-</details>
+ - Github
+ - Jira Software
+ - Power BI
+ - Slack
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
