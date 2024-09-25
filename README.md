@@ -63,6 +63,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Priorização
 ## Sprint 1
 ![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/BacklogP1.png)
+<!-- Seção para revisão####
 ## Sprint 2
 ![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Sprint2.png)
 ## Sprint 3
@@ -70,6 +71,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Sprint 4
 ![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/sprint4.png)
 </div>
+-->
+D
 <!-- Seção para revisão####
 # Burndown
 ### Sprint 1
@@ -104,7 +107,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Atualizar pesquisas, GitHub e jira;
 - [ ] Documentação em relatório sobre todo o progresso na 4ª Sprint e Atualização do GitHub;
 # Apresentação das Sprints !!!
-<!-- Seção para revisão#### Apresentação da Sprint 1 [(clique aqui)]()
+
+#### Apresentação da Sprint 1 [(clique aqui)]()
+<!-- Seção para revisão
 #### Apresentação da Sprint 2 [(clique aqui)]()
 #### Apresentação da Sprint 3 [(clique aqui)]()
 #### Apresentação da Sprint 4 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%203.pdf)-->
