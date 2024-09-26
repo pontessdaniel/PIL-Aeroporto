@@ -63,7 +63,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Priorização
 ## Sprint 1
 ![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/BacklogP1.png)
-<!-- Seção para revisão####
 ## Sprint 2
 ![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Sprint2.png)
 ## Sprint 3
@@ -71,8 +70,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Sprint 4
 ![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/sprint4.png)
 </div>
--->
-D
+
 <!-- Seção para revisão####
 # Burndown
 ### Sprint 1
