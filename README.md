@@ -52,7 +52,7 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|12/12/2024 | A Fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 -->
 ## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontra as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual Sprint cada atividade pertence.
+Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontrar o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual Sprint cada atividade pertence.
 
 #### Cronograma das Sprint [(clique aqui)](https://github.com/users/ramonads42/projects/2/views/1)
 
