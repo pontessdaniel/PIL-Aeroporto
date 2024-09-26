@@ -8,9 +8,10 @@
 * [Backlog da Sprints](#Backlog-das-Sprints)
 * [Priorização](#Priorização)
 * [Apresentação das Sprints](#Apresentação-das-sprints)
+<!--
 * [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
-
+-->
 
 # Projeto (API) 
  O projeto integrador (API) é um projeto pedagógico, onde o ensino é focado no desenvolvimento de um produto que auxilia visualizar e mapear potenciais cargas para movimentação no aeroporto SJK com base em dados de importações de municípios da região do Vale do Paraíba e Litoral Norte no ano de 20242. 
