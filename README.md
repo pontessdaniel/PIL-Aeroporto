@@ -108,7 +108,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Documentação em relatório sobre todo o progresso na 4ª Sprint e Atualização do GitHub;
 # Apresentação das Sprints !!!
 
-#### Apresentação da Sprint 1 [(clique aqui)]()
+#### Apresentação da Sprint 0 [(clique aqui)](https://github.com/pontessdaniel/PIL-Aeroporto/blob/main/Apresenta%C3%A7%C3%B5es/PIL%20AEROPORTO%20SJK(1).pptx)
 <!-- Seção para revisão
 #### Apresentação da Sprint 2 [(clique aqui)]()
 #### Apresentação da Sprint 3 [(clique aqui)]()
