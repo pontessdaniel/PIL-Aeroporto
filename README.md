@@ -61,8 +61,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
     
 ![sprint backlog](https://github.com/pontessdaniel/PIL-Aeroporto/blob/main/BackLog%20Imagens/Backlog-por-Sprint.png)
 # Priorização
-## Sprint 1
-![product backlog]()
+## Sprint 0
+![product backlog](https://github.com/pontessdaniel/PIL-Aeroporto/blob/main/BackLog%20Imagens/Sprint%200.png)
 ## Sprint 2
 ![product backlog]()
 ## Sprint 3
