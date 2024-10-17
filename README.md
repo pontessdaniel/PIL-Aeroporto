@@ -46,8 +46,8 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------| 
 |Kick Off| 17/09/2024 | Concluído | | 
 |00| 26/09/2024 | Concluído |[Ver Relatório](https://github.com/pontessdaniel/PIL-Aeroporto/tree/main/Relat%C3%B3rios/PDFs/Relatório-de-atividades.pdf) | 
-<!--
 |01|  17/10/2024| A Fazer |[Ver Relatório]() | 
+<!--
 |02| 07/11/2024 | A Fazer |[Ver Relatório]() | 
 |03| 28/11/2024 | A Fazer |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relat%C3%B3rio%204.pdf)  | 
 |Feira de Soluções|12/12/2024 | A Fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
