@@ -99,7 +99,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Identificar principais produtos exportados na RM Vale;
 - [ ] Criação do Dashboard com evolução mensal por valor/peso das exportações;
 - [ ] Documentação em relatório sobre todo o progresso na 2ª Sprint;
-## Sprint 3. 
+<!-- Seção para revisão## Sprint 3. 
 - [ ] Implementação no Dashboard de filtros por município da RM vale, por carga, por volume e por valor FOB;
 - [ ] Pesquisar quais cargas poderiam ser transportadas por aeroporto.;
 - [ ] Documentação em relatório sobre todo o progresso na 3ª Sprint e Atualização do GitHub;
