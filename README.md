@@ -93,7 +93,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Pesquisas para estruturação do projeto;
 - [x] Preenchimento do Jira e GitHub;
 - [x] Documentação em relatorio da Sprint 1;
-- [ ] Revisão e finalização.
+- [x] Revisão e finalização.
 ## Sprint 2. 
 - [ ] Conversão dos dados no Power BI ;
 - [ ] Identificar principais produtos exportados na RM Vale;
